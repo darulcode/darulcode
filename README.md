@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there I'am M Khoirul Risqi 👋
 
-<!--
-**darulcode/darulcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I am currently learning Python, Go Language, Javascript. 
+- 👯 I would like to collaborate on web projects as well as Backend Dev.
+- 💬 Ask me about Python(Flask) and Go Language (Gin).
+- 📫 How to contact me: [Linkedin](https://www.linkedin.com/in/darulilmi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://raw.githubusercontent.com/risqikhoirul/risqikhoirul/33450311bd407de935172e7392a245184b5002d0/contributions.svg) 
+![](https://github-readme-stats.vercel.app/api?username=darulcode&show_icons=true&include_all_commits=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=darulcode)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darulcode&layout=compact&langs_count=12)

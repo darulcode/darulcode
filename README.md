@@ -1,4 +1,4 @@
-### Hi there I'am M Khoirul Risqi 👋
+### Hi there I'am A Darul Ilmi 👋
 
 
 - 🌱 I am currently learning Python, Go Language, Javascript. 

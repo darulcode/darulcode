@@ -1,7 +1,7 @@
 ### Hi there I'am A Darul Ilmi 👋
 
 
-- 🌱 I am currently learning Python, Go Language, Javascript. 
+- 🌱 I am currently learning Java, Python, Go Language, Javascript, etc.
 - 👯 I would like to collaborate on web projects as well as Backend Dev.
 - 💬 Ask me about Python(Flask) and Go Language (Gin).
 - 📫 How to contact me: [Linkedin](https://www.linkedin.com/in/darulilmi)

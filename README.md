@@ -1,4 +1,5 @@
 ### Hi there I'am A Darul Ilmi 👋
+[![wakatime](https://wakatime.com/badge/user/0a5b6f47-1521-4a64-88f9-ab477d796f31.svg)](https://wakatime.com/@0a5b6f47-1521-4a64-88f9-ab477d796f31)
 
 
 - 🌱 I am currently learning Java, Python, Go Language, Javascript, etc.

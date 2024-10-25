@@ -12,3 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=darulcode)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darulcode&hide_progress=compact&layout=compact)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=darulcode)](https://github.com/darulcode/github-readme-stats)

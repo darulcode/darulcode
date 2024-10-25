@@ -13,4 +13,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darulcode&hide_progress=compact&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=darulcode)](https://github.com/darulcode/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=darulcode1)](https://github.com/darulcode/github-readme-stats)

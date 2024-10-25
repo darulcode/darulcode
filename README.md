@@ -11,4 +11,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=darulcode)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darulcode&layout=compact&langs_count=12)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darulcode&hide_progress=compact&layout=compact)

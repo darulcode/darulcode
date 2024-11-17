@@ -8,8 +8,6 @@
 - Check my portofolio [Portofolio](https://darulcode.github.io/)
 - 📫 How to contact me: [Linkedin](https://www.linkedin.com/in/darulilmi)
 
-![](https://github-readme-stats.vercel.app/api?username=darulcode&show_icons=true&include_all_commits=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=darulcode)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darulcode&hide_progress=compact&layout=compact)
